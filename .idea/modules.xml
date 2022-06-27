@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/assignment5.iml" filepath="$PROJECT_DIR$/assignment5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DistributedDataStore.iml" filepath="$PROJECT_DIR$/DistributedDataStore.iml" />
     </modules>
   </component>
 </project>
